@@ -3,6 +3,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+h1 {
+    color: #61B329; 
+}
+
 /* Small styling - reusable snippets */
 
 /* Media Queries */
